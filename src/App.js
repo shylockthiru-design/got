@@ -660,7 +660,7 @@ export default function App() {
           {/* Section divider texture strip */}
           <div style={{
             width: "100%", height: "80px", marginBottom: "1.5rem",
-            backgroundImage: "url('/images/Images and extra textures/bg_lordui_002.png')",
+            backgroundImage: "url('/images/GotPngs/bg_lordui_002.png')",
             backgroundSize: "cover", backgroundPosition: "center",
             opacity: 0.07, borderRadius: "4px",
           }} />
